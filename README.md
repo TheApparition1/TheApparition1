@@ -7,6 +7,7 @@ I enjoy building software, creating music, running live sound and lighting, and 
 ### 🚀 Current Projects
 - **CompOS** — An Arch-based Linux distribution focused on simplicity, usability, and performance.
 - **Hallucination Highways** — An in-development game project.
+- **Apparition Gaming** - A next.js based game website using iFrame to host all of my games.
 
 ### 🎵 Music & Audio
 Outside of programming, I DJ, produce music, and work with live audio systems. I'm also interested in developing **Max for Live**, **VST**, and **AU** plugins to streamline music production workflows.
