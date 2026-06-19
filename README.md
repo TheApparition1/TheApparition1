@@ -1,23 +1,23 @@
-# 💫 About Me
+#  About Me
 
 Hey! I'm **TheApparition1**, a student, developer, DJ, and tech enthusiast.
 
 I enjoy building software, creating music, running live sound and lighting, and experimenting with new technologies. Most of my time is spent developing personal projects, learning new skills, and solving interesting technical challenges.
 
-### 🚀 Current Projects
+###  Current Projects
 - **CompOS** — An Arch-based Linux distribution focused on simplicity, usability, and performance.
 - **Hallucination Highways** — An in-development game project.
 - **Apparition Gaming** - A next.js based game website using iFrame to host all of my games.
-
-### 🎵 Music & Audio
+- **Apparition Keys** - A CircuitPython script to log into your desktops using an RFID Module and a Raspberry Pi.
+###  Music & Audio
 Outside of programming, I DJ, produce music, and work with live audio systems. I'm also interested in developing **Max for Live**, **VST**, and **AU** plugins to streamline music production workflows.
 
-## 🌐 Socials
+##  Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/apparitiondjing)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:TheApparition1@outlook.com)
 
-# 💻 Tech Stack
+#  Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white)
@@ -34,7 +34,7 @@ Outside of programming, I DJ, produce music, and work with live audio systems. I
 ![Aurelia](https://img.shields.io/badge/aurelia-%23ED2B88.svg?style=for-the-badge&logo=aurelia&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=TheApparition1&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)
 
