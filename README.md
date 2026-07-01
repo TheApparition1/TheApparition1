@@ -5,9 +5,9 @@ Hey! I'm **TheApparition1**, a student, developer, DJ, and tech enthusiast.
 I enjoy building software, creating music, running live sound and lighting, and experimenting with new technologies. Most of my time is spent developing personal projects, learning new skills, and solving interesting technical challenges.
 
 ###  Current Projects
-- **CompOS** — An Arch-based Linux distribution focused on simplicity, usability, and performance.
+- **CompOS** — A Tauri-based Linux installer designed to simplify the Arch Linux install process.
 - **Hallucination Highways** — An in-development game project.
-- **Apparition Gaming** - A next.js based game website using iFrame to host all of my games.
+- **Apparition Gaming** - A next. js-based game website using an iframe to host all of my games.
 - **Sonora Music** - A MacOS Native music app for playing back local music files in a clean, modern and simplistic UI.
 - **Apparition Keys** - A CircuitPython script to log into your desktops using an RFID Module and a Raspberry Pi.
 ###  Music & Audio
